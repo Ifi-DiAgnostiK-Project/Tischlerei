@@ -1,0 +1,36 @@
+[submodule "materials/tischlerei-gefahrenstoffe"]
+	path = materials/tischlerei-gefahrenstoffe
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-gefahrenstoffe.git
+[submodule "materials/tischlerei-holzarten-theorie-01"]
+	path = materials/tischlerei-holzarten-theorie-01
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-theorie-01.git
+[submodule "materials/tischlerei-holzarten-quiz-01"]
+	path = materials/tischlerei-holzarten-quiz-01
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-quiz-01.git
+[submodule "materials/tischlerei-holzarten-quiz-02"]
+	path = materials/tischlerei-holzarten-quiz-02
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-quiz-02.git
+[submodule "materials/tischlerei-holzarten-quiz-03"]
+	path = materials/tischlerei-holzarten-quiz-03
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-quiz-03.git
+[submodule "materials/tischlerei-holzarten-quiz-04"]
+	path = materials/tischlerei-holzarten-quiz-04
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-quiz-04.git
+[submodule "materials/tischlerei-holzarten-quiz-05"]
+	path = materials/tischlerei-holzarten-quiz-05
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzarten-quiz-05.git
+[submodule "materials/tischlerei-holzverbindungen"]
+	path = materials/tischlerei-holzverbindungen
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-holzverbindungen.git
+[submodule "materials/tischlerei-oberflaeche-tso12-einfach"]
+	path = materials/tischlerei-oberflaeche-tso12-einfach
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-oberflaeche-tso12-einfach.git
+[submodule "materials/tischlerei-oberflaeche-tso12-mittel"]
+	path = materials/tischlerei-oberflaeche-tso12-mittel
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-oberflaeche-tso12-mittel.git
+[submodule "materials/tischlerei-oberflaeche-tso12-schwer"]
+	path = materials/tischlerei-oberflaeche-tso12-schwer
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-oberflaeche-tso12-schwer.git
+[submodule "materials/tischlerei-oberflaeche-tso12-spezial"]
+	path = materials/tischlerei-oberflaeche-tso12-spezial
+	url = https://github.com/Ifi-DiAgnostiK-Project/tischlerei-oberflaeche-tso12-spezial.git
